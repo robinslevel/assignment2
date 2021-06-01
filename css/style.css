@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    margin: 4em;
+    text-align: center;
+    font-family: monospace;
+    background-color: white;
+
+}
+
+
+h1 {
+    color: crimson;
+}
+
+
+
+.naam {
+    display: block;
+    color: goldenrod;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+p {
+    color: darkred;
+    font-size: 80px;
+    font-family: monospace, sans-serif;
+
+}
